@@ -1,7 +1,7 @@
 # ManuBot Bot Para Whatsapp by ManuelDiaz
 
 <p align="center">
-<img src="https://github.com/shanduy/ShanBot/blob/main/temples/ezgif-4-5e4fce2c4bbe.gif" alt="GIF" width="500" height="281"/>
+<img src="https://github.com/ManuelGamer13/Whatsapp-Bot-/blob/main/video.gif?raw=true" alt="GIF" width="500" height="281"/>
 </p>
 <p align="center">
 <a href="#"><img title="ManuBot" src="https://img.shields.io/badge/ShanBot -purple?colorA=%cc33ff&colorB=%cc33ff&style=for-the-badge"></a>
