@@ -1,15 +1,15 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ShanBot 🤖 by shanduy* ⌟  
+⌜ *ManuBot 🤖 by 💜Manuel Diaz💜* ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: shanduy™ 
+   ○ Creador: 💜Manuel Diaz💜™ 
    ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Instagram: https://www.instagram.com/MydaManuel
 
-◉ *ShanBot Con Insultos O Quitarlos🤷‍♂️?*
+◉ *Manuel Diaz Con Insultos O Quitarlos🤷‍♂️?*
 Responde esto en la siguiente encuesta
 https://forms.gle/4zzqRpV21CMGwsF57
 
@@ -87,10 +87,10 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 
 No te olvides de seguirme en instagram flaco ;)
 
-by shanduy
+by 💜Manuel Diaz💜
 
-⌜ *ごきげんよう :)* ⌟ 
-`
+Escribiendo....❤
+⛔No Molestar⛔
 }
 
 exports.help = help
