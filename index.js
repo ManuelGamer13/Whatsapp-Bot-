@@ -1,11 +1,10 @@
+  
  /*
-* ManuBot es una creación de shanduy
-* ManuBot no tiene ningun fin de lucro
-* Manuel Diaz se reserva todos los derechos de autor
-* © 2021 Manuel Diaz, INC.
-
+* ShanBot es una creación de shanduy
+* ShanBot no tiene ningun fin de lucro
+* shanduy se reserva todos los derechos de autor
+* © 2021 shanduy, INC.
 Cualquier copia que utilize mi ApiKey sera dado de baja
-
 - Que hay de nuevo?
 * Nada
 */
