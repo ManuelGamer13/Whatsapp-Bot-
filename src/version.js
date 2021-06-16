@@ -1,10 +1,10 @@
 const version = (prefix, pushname) => {
     return `
-*ShanBot 🤖*
+*ManuBot 🤖*
 
-*Actualizado:* 16 de junio de 2021
-*Versión actual:* 2.5
-*Ofrecida por:* shanduy™
+*Actualizado:* 17 de junio de 2021
+*Versión actual:* 1.2
+*Ofrecida por:* 💜Manuel Diaz💜™
 
 
 *NOVEDADES*
@@ -24,11 +24,13 @@ Cambiare la apikey pasando un mes o si veo muchos atercados o robos.
 Si vez a alguien que robo mi bot comunicate conmigo.
 
 
-*BLOG DE SHANBOT*
+*BLOG DE ManuBot*
 
-https://github.com/shanduy/ShanBot
+https://github.com/ManuelGamer13/Whatsapp-Bot-
 
-by shanduy
+by 💜Manuel Diaz💜
+Escribiendo....❤
+⛔No Molestar⛔
 `
 
 }
