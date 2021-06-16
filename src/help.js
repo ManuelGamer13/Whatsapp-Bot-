@@ -91,6 +91,7 @@ by 💜Manuel Diaz💜
 
 Escribiendo....❤
 ⛔No Molestar⛔
+`
 }
 
 exports.help = help
