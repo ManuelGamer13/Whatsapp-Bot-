@@ -25,7 +25,7 @@ const shantera = (prefix, pushname) => {
 
 _Ojito escribe tal y como esta en el mensaje_
 
-by shanduy`
+by 💜Manuel Diaz💜`
 
 }
 
