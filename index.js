@@ -290,7 +290,7 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: 'Calmao pa estoy procesando😎\n\n❗Por favor no hacer spam👏❗\n\nby shanduy',
+				wait: '😑Estoy Buscando Tu Musica ,Estoy Procesando 😎\n\n❗Por favor no hacer spam👏❗\n\nby 💜Manuel Diaz💜',
 				success: '✔️ Listo ✔️',
                                 levelon: '❬ ✅ ❭ *Level activado*',
 				leveloff: ' ❬ ✅ ❭  *Level desactivado*',
@@ -301,19 +301,18 @@ async function starts() {
 					Iv: '❌ Link inválido ❌'
 				},
 				only: {
-					group: '[❗] Este comando es solo para grupos!',
-					ownerG: '[❗] Este comando solo puede ser utilizado por un admin del grupo!',
-					ownerB: '[❗] Este comando solo lo usa ShanBot!',
-					admin: '[❗] Este comando solo puede ser utilizado por administradores del grupo!',
-					Badmin: '[❗] Este comando solo se puede usar cuando el bot se convierte en administrador!',
-                                        pegatina: 'Calma crack estoy haciendo tu sticker 👏\n\n*Recuerda los stickersgif son de 6 segundos ❗*\n\nby shanduy',
-					attp: 'Calma crack estoy haciendo tu texto a sticker 👏\n\n*Esto puede demorar unos minutos*\n\nby shanduy',
-					imgs: 'Euu flaco 🥴\n\n*Convirtiendo tu Sticker a Imagen 🔄*\n\nby shanduy',
-					mpcancion: 'Calmaoooo estoy procesando 😎\n\n*Convirtiendo de MP4 a MP3 🔄*\n\nby shanduy',
-					mpa: 'Euu flaco 🥴\n\n*Estoy decargando tu cancion 🔄*\n\nAguarde un momento, por favor\n\nby shanduy',
-                                        mpv: 'Calmao pa 😎\n\n*Estoy descargando tu video 🔄*\n\nAguarde un momento, por favor\n\nby shanduy',
-					musica: 'Calmao pa estoy bucando tu canción 😎\n\n*Recuerda colocar bien el nombre de la cancion o el link del video de youtube ❗*\n\nby shanduy',
-					daftarB: `「NEFASTOOOOO」\n\nPERO PAAAAAAAAAA!\n\nNo estas registrado en mi base de datos 😳 \n\nComando : ${prefix}daftar Nombre\nEjemplo : ${prefix}daftar shanduy`,
+					group: '[❗] Este comando es solo para grupos!...😑',
+					ownerG: '[❗] Este comando solo puede ser utilizado por un admin del grupo!...😑',
+					ownerB: '[❗] Este comando solo lo usa ManuBot!...😑😐',
+					admin: '[❗] Este comando solo puede ser utilizado por administradores del grupo!...😑',
+					Badmin: '[❗] Este comando solo se puede usar cuando el bot se convierte en administrador!...😑😒',
+                                        pegatina: 'Estoy haciendo tu sticker 👏\n\n*Recuerda los stickersgif son de 6 segundos ❗...😴*\n\nby 💜Manuel Diaz💜',
+					attp: 'Hey Brother 👋 🥴\n\n*Convirtiendo tu Sticker a Imagen 🔄*\n\nby 💜Manuel Diaz💜',
+					mpcancion: '😑Estoy Convertiendo,Estoy Procesando 😎\n\n*Convirtiendo de MP4 a MP3 🔄*\n\nby 💜Manuel Diaz💜',
+					mpa: 'Hey Brother 👋 🥴\n\n*Estoy decargando tu cancion 🔄*\n\nAguarde un momento, por favor\n\nby 💜Manuel Diaz💜',
+                                        mpv: 'Hey Brother 👋\n\n*Estoy descargando tu video 🔄*\n\nAguarde un momento, por favor\n\nby 💜Manuel Diaz💜',
+					musica: '😑Estoy Buscando Tu Musica 😎\n\n*Recuerda colocar bien el nombre de la cancion o el link del video de youtube ❗*\n\nby 💜Manuel Diaz💜',
+					daftarB: `「NEFASTOOOOO」\n\nPERO PAAAAAAAAAA!\n\nNo estas registrado en mi base de datos 😳 \n\nComando : ${prefix}daftar Nombre\nEjemplo : ${prefix}daftar Manuel Diaz`,
 				}
 			}
     			const apakah = ['Si','No']
